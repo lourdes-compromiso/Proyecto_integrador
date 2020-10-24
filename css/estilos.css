@@ -1,0 +1,11 @@
+.bg.fondo {
+  background-color: #DE1D22
+}
+
+#body {
+  background-color: black
+}
+#color-de-texto{
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
